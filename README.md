@@ -1,4 +1,4 @@
-# Machine-learning Practice
+# Machine-learning-Practice
 
 ## Machine Learning
 #### Data preprocessing,Regrassion,classification
